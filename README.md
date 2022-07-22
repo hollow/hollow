@@ -1,9 +1,7 @@
 <a href="https://github.com/hollow">
     <img align="center" width="49%" src="./header.svg" />
 </a>
-<a href="https://github.com/hollow?tab=achievements">
-    <img align="center" width="49%" src="./achievements.svg" />
-</a>
+<br />
 <a href="https://github.com/hollow?tab=repositories">
     <img align="center" width="49%" src="./repositories.svg" />
 </a>
@@ -20,5 +18,5 @@
     <img align="center" width="49%" src="./followup.svg" />
 </a>
 <a href="https://github.com/hollow">
-    <img align="center" width="49%" src="./languages.svg" />
+    <img align="center" width="49%" src="./achievements.svg" />
 </a>
